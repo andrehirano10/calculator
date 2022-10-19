@@ -1,4 +1,4 @@
 # calculator
 just a calculator
 
-#Better practice with javascript
+practicing creating applications with javascript
